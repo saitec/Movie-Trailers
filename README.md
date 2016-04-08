@@ -2,7 +2,7 @@
 A small project from Udacity - Intro to Programming Nanodegree
 
 ahoy there, thanks for taking the time to go through my project. 
-This is my first shot at some code, so go easy on it.:)
+This is my first shot at some code, so go easy on it. :)
 
 A quick way to setup Movie Trailer Website on your machine:
 
@@ -12,7 +12,7 @@ A quick way to setup Movie Trailer Website on your machine:
    or
    * Run/build `main.py` on any Python-supported IDE.
    or
-   * Open `fresh_tomatoes.html` on any modern browser (easiest).
+   * Open `fresh_tomatoes.html` on your browser (easiest).
 3. Once the website is up, click on the image of the movie's box art to play its trailer.
 
 ## What's included
